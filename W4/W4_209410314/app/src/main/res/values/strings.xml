@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Java App</string>
+    <string name="ph">Call phone</string>
+    <string name="we">URL</string>
+    <string name="sel">Your selection:</string>
+    <string name="sms">SMS</string>
+    <string name="ma">Map</string>
+    <string name="se">Search</string>
+    <string name="ip1">Input Data</string>
+    <string name="er">No data</string>
+    <string name="sco">Compute Score</string>
+    <string name="avg">Compute Average</string>
+    <string name="id">Stu_id</string>
+    <string name="na">Name</string>
+    <string name="send">Send</string>
+    <string name="rr">Result:</string>
+    <string name="ch">Chinese</string>
+    <string name="en">English</string>
+    <string name="aav">Average</string>
+    <string name="rev">Receive:</string>
+</resources>

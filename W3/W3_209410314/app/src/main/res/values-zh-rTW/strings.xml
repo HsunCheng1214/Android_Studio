@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的爪哇應用程式</string>
+    <string name="act2_title">活動2標題</string>
+    <string name="act3_title">活動3標題</string>
+    <string name="Act1">活動1</string>
+    <string name="Act2">活動2</string>
+    <string name="Act3">活動3</string>
+    <string name="but2">至活動2</string>
+    <string name="but3">至活動3</string>
+    <string name="bk1">回歸活動3</string>
+    <string name="bk2">回歸活動3</string>
+    <string-array name="eat">
+        <item>牛肉</item>
+        <item>豬肉</item>
+        <item>羊肉</item>
+    </string-array>
+</resources>

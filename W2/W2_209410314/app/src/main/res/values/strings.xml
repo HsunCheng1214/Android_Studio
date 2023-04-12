@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My java APP</string>
+    <string name="disp">Display Toast</string>
+    <string name="qu">Android Questionaire</string>
+    <string name="ms">Do you like Android CellPhone?</string>
+    <string name="ch">Your choice</string>
+    <string name="no">No comment</string>
+    <string name="lk">Like</string>
+    <string name="ht">Hate</string>
+    <string name="dt">Date</string>
+    <string name="tt">Time</string>
+</resources>

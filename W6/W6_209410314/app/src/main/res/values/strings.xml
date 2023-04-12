@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Java APP</string>
+    <string name="send">Send</string>
+    <string name="rr">Result:</string>
+    <string name="sure">Sure</string>
+    <string name="can">Cancel</string>
+    <string name="sel">Your Selection:</string>
+    <string name="err">Some file are missing</string>
+    <string name="m1">Mini Memo</string>
+    <string name="m2">Edit Memo</string>
+    <string name="item">Item:</string>ources>
+    <string name="mod">had been modified</string>ources>
+    <string name="s_opt1">subOption 1</string>ources>
+    <string name="s_opt2">subOption 2</string>ources>
+    <string name="s_m">SubMenu</string>ources>
+    <string name="opt1">Option 1</string>ources>
+    <string name="opt2">Option 2</string>ources>
+    <string name="opt3">Option 3</string>ources>
+    <string name="opt4">Option 4</string>ources>
+    <string name="exit">Exit</string>ources>
+</resources>

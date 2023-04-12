@@ -1,0 +1,12 @@
+<resources>
+<string name="app_name">我的java應用程式</string>
+<string name="disp">顯示即時資訊</string>
+<string name="qu">安卓問卷調查</string>
+<string name="ms">你喜歡安著手機嗎</string>
+<string name="ch">你選擇</string>
+<string name="no">沒意見</string>
+<string name="lk">喜歡</string>
+<string name="ht">討厭</string>
+<string name="dt">時間</string>
+<string name="tt">日期</string>
+</resources>

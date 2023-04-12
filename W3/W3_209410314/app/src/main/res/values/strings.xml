@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Java APP</string>
+    <string name="act2_title">Activity 2 title</string>
+    <string name="act3_title">Activity 3 title</string>
+    <string name="Act1">Activity 1</string>
+    <string name="Act2">Activity 2</string>
+    <string name="Act3">Activity 3</string>
+    <string name="but2">To Activity 2</string>
+    <string name="but3">To Activity 3</string>
+    <string name="bk1">Back To Activity 1</string>
+    <string name="bk2">Back To Activity 2</string>
+    <string-array name="eat">
+        <item>beef</item>
+        <item>pork</item>
+        <item>sheep</item>
+    </string-array>
+</resources>

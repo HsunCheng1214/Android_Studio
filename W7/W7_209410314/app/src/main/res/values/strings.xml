@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Java APP</string>
+    <string name="yang">YangMing Mountain</string>
+    <string name="yu">yu Mountain</string>
+    <string name="tai">Tai-Lu-Ga</string>
+    <string name="loc">My location</string>
+    <string name="set">Setting</string>
+    <string name="Exit">Exit</string>
+    <string name="single">Single Selection</string>
+    <string name="s_op1">Single Option 1</string>
+    <string name="s_op2">Single Option 2</string>
+    <string name="s_op3">Single Option 3</string>
+    <string name="multiple">Multiple Selection</string>
+    <string name="m_op1">Multiple Option 1</string>
+    <string name="m_op2">Multiple Option 2</string>
+    <string name="m_op3">Multiple Option 3</string>
+    <string name="cp">copy</string>
+    <string name="pt">paste</string>
+</resources>

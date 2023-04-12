@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的爪哇應用程式</string>
+    <string name="yang">陽明山</string>
+    <string name="yu">玉山</string>
+    <string name="tai">太魯閣</string>
+    <string name="loc">我的位置</string>
+    <string name="set">設定</string>
+    <string name="Exit">結束</string>
+    <string name="single">單選按鈕</string>
+    <string name="s_op1">單選項目 1</string>
+    <string name="s_op2">單選項目 2</string>
+    <string name="s_op3">單選項目 3</string>
+    <string name="multiple">多選按鈕</string>
+    <string name="m_op1">多選項目 1</string>
+    <string name="m_op2">多選項目 2</string>
+    <string name="m_op3">多選項目 3</string>
+    <string name="cp">複製</string>
+    <string name="pt">貼上</string>
+</resources>

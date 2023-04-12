@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Java app</string>
+    <string name="avg">Compute Average</string>
+    <string name="id">Stu_id:</string>
+    <string name="na">Name:</string>
+    <string name="send">Send</string>
+    <string name="rr">Result:</string>
+    <string name="ch">Chinese:</string>
+    <string name="en">English:</string>
+    <string name="aav">Average</string>
+    <string name="rev">Receive</string>
+    <string name="av_s">Average:</string>
+    <string name="sure">Sure</string>
+    <string name="can">Cancel</string>
+    <string name="err">error</string>
+    <string name="m1">Mini Memo</string>
+    <string name="m2">Edit Memo</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的程式</string>
+    <string name="ph">打電話</string>
+    <string name="we">連網頁</string>
+    <string name="sel">您的選擇</string>
+    <string name="sms">發簡訊</string>
+    <string name="ma">連接到地圖</string>
+    <string name="se">搜尋</string>
+    <string name="ip1">輸入資料</string>
+    <string name="er">沒有資料</string>
+    <string name="sco">計算成績</string>
+    <string name="avg">計算平均</string>
+    <string name="id">學號</string>
+    <string name="na">姓名</string>
+    <string name="send">送出</string>
+    <string name="rr">結果</string>
+    <string name="ch">國文</string>
+    <string name="en">英文</string>
+    <string name="aav">平均</string>
+    <string name="rev">接收到</string>
+</resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sel"
+        android:id="@+id/res" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/res"
+        android:text="@string/ip1" />
+
+    <EditText
+        android:id="@+id/ed1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/res"
+        android:layout_toRightOf="@id/textView"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text=""/>
+
+    <Button
+        android:id="@+id/b1"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ed1"
+        android:text="@string/ph" />
+
+    <Button
+        android:id="@+id/b2"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ed1"
+        android:layout_toRightOf="@+id/b1"
+        android:text="@string/we" />
+
+    <Button
+        android:id="@+id/b3"
+        android:layout_width="70sp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ed1"
+        android:layout_toRightOf="@+id/b2"
+        android:text="@string/sms" />
+
+    <Button
+        android:id="@+id/b4"
+        android:layout_width="80sp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ed1"
+        android:layout_toRightOf="@+id/b3"
+        android:text="@string/ma" />
+
+    <Button
+        android:id="@+id/b5"
+        android:layout_width="80sp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ed1"
+        android:layout_toRightOf="@+id/b4"
+        android:text="@string/se" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/b1"
+        android:text="@string/id" />
+
+    <EditText
+        android:id="@+id/ed2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_below="@+id/b1"
+        android:layout_toRightOf="@+id/textView2"
+        android:inputType="textPersonName"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ed2"
+        android:text="@string/na" />
+
+    <EditText
+        android:id="@+id/ed3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_below="@+id/ed2"
+        android:layout_toRightOf="@+id/textView3"
+        android:inputType="textPersonName"
+        android:text="" />
+
+    <Button
+        android:id="@+id/b6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ed3"
+        android:text="@string/send" />
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/b6"
+        android:text="@string/rr" />
+
+</RelativeLayout>

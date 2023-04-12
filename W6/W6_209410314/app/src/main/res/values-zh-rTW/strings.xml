@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的爪哇程式</string>
+    <string name="send">傳送</string>
+    <string name="rr">結果:</string>
+    <string name="sure">確認</string>
+    <string name="can">取消</string>
+    <string name="sel">你的選擇:</string>
+    <string name="err">有欄位未輸入</string>
+    <string name="m1">迷你備忘錄</string>
+    <string name="m2">編輯備忘錄</string>ources>
+    <string name="item">項目</string>ources>
+    <string name="mod">被修改</string>ources>
+    <string name="s_opt1">子選單1</string>ources>
+    <string name="s_opt2">子選單2</string>ources>
+    <string name="s_m">子選單</string>ources>
+    <string name="opt1">選項1</string>ources>
+    <string name="opt2">選項2</string>ources>
+    <string name="opt3">選項3</string>ources>
+    <string name="opt4">選項4</string>ources>
+    <string name="exit">離開</string>ources>
+</resources>

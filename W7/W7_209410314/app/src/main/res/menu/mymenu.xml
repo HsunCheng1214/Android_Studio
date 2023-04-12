@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/yang" android:title="@string/yang"></item>
+<item android:id="@+id/yu" android:title="@string/yu">
+    <menu>
+        <group android:id="@+id/ig2" android:checkableBehavior="all" android:menuCategory="system">
+            <item   android:id="@+id/m_op1"
+                    android:title="@string/m_op1"
+                    android:checked="true">
+            </item>
+            <item android:id="@+id/m_op2" android:title="@string/m_op2"></item>
+            <item android:id="@+id/m_op3" android:title="@string/m_op3"></item>
+        </group>
+    </menu>
+</item>
+<item android:id="@+id/tai" android:title="@string/tai"></item>
+<item android:id="@+id/loc" android:title="@string/single">
+    <menu>
+        <group android:id="@+id/ig1" android:checkableBehavior="single" android:menuCategory="system">
+            <item android:id="@+id/s_op1" android:title="@string/s_op1" android:checked="true"></item>
+            <item android:id="@+id/s_op2" android:title="@string/s_op2"></item>
+            <item android:id="@+id/s_op3" android:title="@string/s_op3"></item>
+        </group>
+    </menu>
+</item>
+<item android:id="@+id/set" android:title="@string/set"></item>
+<item android:id="@+id/exit" android:icon="@drawable/close" android:title="@string/Exit"></item>
+</menu>

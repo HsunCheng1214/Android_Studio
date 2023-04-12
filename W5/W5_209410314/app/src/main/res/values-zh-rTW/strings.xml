@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">計算成績</string>
+    <string name="avg">算平均</string>
+    <string name="id">學號:</string>
+    <string name="na">姓名:</string>
+    <string name="send">送出</string>
+    <string name="rr">結果:</string>
+    <string name="ch">中文:</string>
+    <string name="en">英文:</string>
+    <string name="aav">平均</string>
+    <string name="rev">接收資料:</string>
+    <string name="av_s">平均:</string>
+    <string name="sure">確定</string>
+    <string name="can">取消</string>
+    <string name="err">有欄位空值</string>
+    <string name="m1">迷你備忘錄</string>
+    <string name="m2">編輯備忘錄</string>
+</resources>

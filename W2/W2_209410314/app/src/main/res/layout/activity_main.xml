@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello"
+        android:id="@+id/res" />
+
+    <Button
+        android:id="@+id/b1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/res"
+        android:text="@string/disp"/>
+
+    <TextView
+        android:id="@+id/dt"
+        android:layout_width="100sp"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/b1"
+        android:text="@string/dt"/>
+
+    <TextView
+        android:id="@+id/tt"
+        android:layout_width="100sp"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/dt"
+        android:text="@string/tt"/>
+
+    <DatePicker
+        android:layout_width="match_parent"
+        android:layout_height="320sp"
+        android:layout_below="@+id/b1"
+        android:id="@+id/dp"/>
+
+    <TimePicker
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dp"
+        android:id="@+id/tp"/>
+</RelativeLayout>
