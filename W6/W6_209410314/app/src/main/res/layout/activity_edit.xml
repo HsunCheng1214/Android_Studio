@@ -33,5 +33,4 @@
             android:text="@string/can"/>
 
     </LinearLayout>
-
 </RelativeLayout>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的爪哇應用程式</string>
+    <string name="sys">訂購飲料</string>
+    <string name="sure">確定</string>
+    <string name="res">訂購結果</string>
+    <string name="cls">清除訂購結果</string>
+    <string-array name="dr">
+        <item>珍珠奶茶</item>
+        <item>波霸奶茶</item>
+        <item>仙草奶茶</item>
+        <item>檸檬汁</item>
+    </string-array>
+    <string-array name="ice">
+        <item>冰</item>
+        <item>去冰</item>
+    </string-array>
+    <string-array name="wm">
+        <item>冰</item>
+        <item>去冰</item>
+        <item>溫</item>
+    </string-array>
+    <string-array name="sg1">
+        <item>半糖</item>
+        <item>無糖</item>
+    </string-array>
+    <string-array name="sg2">
+        <item>一般</item>
+        <item>半糖</item>
+    </string-array>
+</resources>

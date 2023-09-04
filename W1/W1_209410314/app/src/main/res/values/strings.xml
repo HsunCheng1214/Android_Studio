@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Java App</string>
+    <string name="sys">Drink Order</string>
+    <string name="sure">Sure</string>
+    <string name="res">Result</string>
+    <string name="cls">clear</string>
+    <string-array name="dr">
+        <item>Pearl milk rea</item>
+        <item>Boba milk rea</item>
+        <item>Grass Jelly milk rea</item>
+        <item>lemon juice</item>
+    </string-array>
+    <string-array name="ice">
+        <item>ice</item>
+        <item>no ice</item>
+    </string-array>
+    <string-array name="wm">
+        <item>ice</item>
+        <item>no ice</item>
+        <item>warm</item>
+    </string-array>
+    <string-array name="sg1">
+        <item>Half Suger</item>
+        <item>No Suger</item>
+    </string-array>
+    <string-array name="sg2">
+        <item>Regular</item>
+        <item>Half Suger</item>
+    </string-array>
+</resources>

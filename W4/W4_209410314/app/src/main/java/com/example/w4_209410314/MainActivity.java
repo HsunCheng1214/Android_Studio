@@ -11,9 +11,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
-
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-
     Button b1,b2,b3,b4,b5,b6; TextView rr; EditText e1,e2,e3;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

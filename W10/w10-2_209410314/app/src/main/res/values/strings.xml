@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Java App</string>
+    <string name="r1">Display Text1:</string>
+    <string name="r2">Display Text2:</string>
+    <string name="r3">Display Text3:</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="bmi">Compute BMI</string>
+    <string name="exp">BMI Explanation</string>
+    <string name="explain">BMI=wight(kg)/(height(m)*height(m))</string>
+    <string name="high">height(cm)</string>
+    <string name="wei">weight(kg)</string>
+    <string name="com">compute</string>
+    <string name="result">BMI=</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Java App</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="Restart">Restart</string>
+    <string name="tot">total</string>
+    <string name="cur"></string>
+</resources>

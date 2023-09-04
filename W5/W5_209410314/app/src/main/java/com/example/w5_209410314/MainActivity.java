@@ -17,10 +17,8 @@ import android.widget.Toast;
 import org.w3c.dom.Text;
 
 import java.lang.reflect.Array;
-
 public class MainActivity extends AppCompatActivity implements View.OnClickListener,
         AdapterView.OnItemClickListener, AdapterView.OnItemLongClickListener {
-
     EditText e1,e2; TextView rr; Button b1; ListView lv;
     String memo[]={"1.點一下修改","2.長按清除","3.","4.","5.","6."};
     ArrayAdapter<String> ad;
@@ -38,8 +36,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         lv=(ListView) findViewById(R.id.lv);
         ad=new ArrayAdapter<String>
                 (this, android.R.layout.simple_list_item_1, memo);
-        lv.setAdapter(ad);
-        lv.setOnItemClickListener(this);
+        lv.setAdapter(ad); lv.setOnItemClickListener(this);
         lv.setOnItemLongClickListener(this);
     }
 
@@ -67,6 +64,4 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             else Toast.makeText(this, getString(R.string.err), Toast.LENGTH_SHORT).show();
         }
     }
-
-
 }

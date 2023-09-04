@@ -6,7 +6,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
 import android.widget.Toast;
-
 public class Compavg extends AppCompatActivity {
 
     Intent it; String id1="", na1=""; TextView rr1;

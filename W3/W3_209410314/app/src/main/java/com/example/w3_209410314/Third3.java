@@ -8,19 +8,17 @@ import android.view.View;
 import android.widget.Button;
 
 public class Third3 extends AppCompatActivity implements View.OnClickListener {
-
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_third3);
+        setTitle(getString(R.string.act3_title));
         Log.d("test", "Third_onCreate");
         Button b4=(Button) findViewById(R.id.b4);
         b4.setOnClickListener(this);
     }
-
     public void onClick(View view) {
         finish();
     }
-
     protected void onStart(){
         super.onStart(); Log.d("test","Third3_onStart");
     }

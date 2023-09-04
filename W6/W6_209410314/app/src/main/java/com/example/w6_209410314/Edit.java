@@ -1,5 +1,4 @@
 package com.example.w6_209410314;
-
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
@@ -7,7 +6,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-
 public class Edit extends AppCompatActivity implements View.OnClickListener {
 
     EditText e1; Button b_s, b_c; Intent it; String tmp;

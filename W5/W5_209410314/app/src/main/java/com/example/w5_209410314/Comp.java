@@ -9,7 +9,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
-
 public class Comp extends AppCompatActivity implements View.OnClickListener {
 
     TextView tv1; EditText ch,en,ed3; Button b2,bs,bc; String id,name,mo;

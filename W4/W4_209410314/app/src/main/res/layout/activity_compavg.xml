@@ -11,14 +11,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="" />
-
     <TextView
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/res1"
         android:text="@string/ch" />
-
     <EditText
         android:id="@+id/ed4"
         android:layout_width="wrap_content"
@@ -35,7 +33,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/ed4"
         android:text="@string/en" />
-
     <EditText
         android:id="@+id/ed5"
         android:layout_width="wrap_content"
@@ -45,7 +42,6 @@
         android:layout_toRightOf="@+id/textView5"
         android:inputType="textPersonName"
         android:text="" />
-
     <Button
         android:id="@+id/b7"
         android:layout_width="wrap_content"

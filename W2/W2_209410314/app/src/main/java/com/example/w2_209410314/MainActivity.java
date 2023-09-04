@@ -15,7 +15,6 @@ import android.widget.DatePicker;
 import android.widget.TextView;
 import android.widget.TimePicker;
 import android.widget.Toast;
-
 public class MainActivity extends AppCompatActivity implements View.OnClickListener,
         DialogInterface.OnClickListener, DatePickerDialog.OnDateSetListener,
         TimePickerDialog.OnTimeSetListener,
@@ -73,7 +72,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             tos.show();
         }
         if(view == dt) new DatePickerDialog(this, this, yy,mm,dd).show();
-        if(view == dt) new TimePickerDialog(this, this,  hh, m1,true).show();
+        if(view == dt) new TimePickerDialog(this, this,  hh, m1,true)
+                .show();
     }
 
     public void onDateSet(DatePicker datePicker, int i, int i1, int i2) {

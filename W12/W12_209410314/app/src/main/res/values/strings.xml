@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Java App</string>
+    <string name="play">Multimedia Play</string>
+    <string name="pl">Play</string>
+    <string name="pau">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="cont">Continue</string>
+    <string name="err">Cannot play</string>
+    <string name="loop">Loop</string>
+</resources>

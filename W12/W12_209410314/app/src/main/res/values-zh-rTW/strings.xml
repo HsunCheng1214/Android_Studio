@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的爪哇應用程式</string>
+    <string name="play">多媒體名稱:</string>
+    <string name="pl">播放</string>
+    <string name="pau">暫停</string>
+    <string name="stop">停止</string>
+    <string name="cont">繼續</string>
+    <string name="err">歌曲有錯</string>
+    <string name="loop">重複播放</string>
+</resources>

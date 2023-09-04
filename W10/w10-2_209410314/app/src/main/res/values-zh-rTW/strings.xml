@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的爪哇應用程式</string>
+    <string name="r1">顯示文字區塊1:</string>
+    <string name="r2">顯示文字區塊2:</string>
+    <string name="r3">顯示文字區塊3:</string>
+    <string name="red">紅色</string>
+    <string name="green">綠色</string>
+    <string name="blue">藍色</string>
+    <string name="bmi">計算BMI</string>
+    <string name="exp">BMI說明</string>
+    <string name="explain">
+        BMI=體銃(公斤)/(身高(公尺)*(身高(公尺))\n成人體重分級標準\n
+        體重過輕 BMI &lt; 18.5\n
+        正常範圍 18.5&lt;= BMI &lt; 24\n
+    </string>
+    <string name="high">身高(公分)</string>
+    <string name="wei">體重(公斤)</string>
+    <string name="com">計算</string>
+    <string name="result">BMI=</string>
+</resources>

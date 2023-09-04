@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Java App</string>
+    <string name="name">Input Name</string>
+    <string name="money">Input Money</string>
+    <string name="sure">Sure</string>
+    <string name="cls">Clear</string>
+    <string name="err">error</string>
+    <string name="suc">success</string>
+    <string name="str">Store:</string>
+</resources>

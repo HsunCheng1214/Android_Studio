@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的爪哇應用程式</string>
+    <string name="bmi">計算BMI</string>
+    <string name="exp">BMI說明</string>
+    <string name="explain">BMI=體重(kg)/(身高(m)*身高(m))\n
+        體重過輕 BMI &lt; 18.5\n
+        正常範圍 18.5&lt;= BMI &lt; 24\n
+        體重過重 24&lt;= BMI &lt; 27\n</string>
+    <string name="high">身高(cm)</string>
+    <string name="wei">體重(kg)</string>
+    <string name="com">計算</string>
+    <string name="result">BMI=</string>
+    <string name="err">有欄位未輸入</string>
+</resources>

@@ -16,10 +16,8 @@ import android.widget.ListView;
 import android.widget.TextView;
 
 import org.w3c.dom.Text;
-
 public class MainActivity extends AppCompatActivity implements
         AdapterView.OnItemClickListener, AdapterView.OnItemLongClickListener {
-
     String mem[]={"1.按下編輯備忘錄","2.長案可以清除備忘錄","3.","4.","5.","6."};
     ListView lv; TextView rr; ArrayAdapter<String> ad; String tt="";
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,7 +29,6 @@ public class MainActivity extends AppCompatActivity implements
                 android.R.layout.simple_list_item_1, mem);
         lv.setAdapter(ad);
     }
-
     public boolean onCreateOptionsMenu(Menu menu) {
         menu.add(0, Menu.FIRST,0,getString(R.string.opt1));
         menu.add(0, Menu.FIRST+1,0,getString(R.string.opt2));
@@ -41,7 +38,6 @@ public class MainActivity extends AppCompatActivity implements
         return super.onCreateOptionsMenu(menu);
     }
 
-    @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         int i=item.getItemId();
         switch (i) {

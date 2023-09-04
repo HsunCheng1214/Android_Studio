@@ -13,9 +13,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
-
 public class MainActivity extends AppCompatActivity {
-
     TextView rr; EditText e1,e2,sel; String cp="";
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -24,13 +22,11 @@ public class MainActivity extends AppCompatActivity {
         e1=(EditText)findViewById(R.id.ed1); registerForContextMenu(e1);
         e2=(EditText)findViewById(R.id.ed2); registerForContextMenu(e2);
     }
-
     void showset(){
         Intent it=new Intent(Settings.ACTION_SETTINGS);
         startActivity(it);
     }
-
-    public void onCreateContextMenu(ContextMenu menu, View v, ContextMenu.ContextMenuInfo menuInfo) {
+    public void onCreateContextMenu(ContextMenu menu, View v, ContextMenu.ContextMenuInfo menuInfo){
         getMenuInflater().inflate(R.menu.my, menu); sel=(EditText)v;
         super.onCreateContextMenu(menu, v, menuInfo);
     }
@@ -44,7 +40,6 @@ public class MainActivity extends AppCompatActivity {
         if (item.getItemId()==R.id.paste) { if(cp.length() > 0) sel.setText(cp); }
         return super.onContextItemSelected(item);
     }
-
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         if(item.getItemId()==R.id.yang) rr.setText(getString(R.string.yang));
         if(item.getItemId()==R.id.yu) rr.setText(getString(R.string.yu));
@@ -54,9 +49,6 @@ public class MainActivity extends AppCompatActivity {
             rr.setText(getString(R.string.set)); showset();
         }
         if(item.getItemId()==R.id.exit) finish();
-
         return super.onOptionsItemSelected(item);
     }
-
-
 }

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的爪哇應用程式</string>
+    <string name="opt1">複製到第一個文字區塊</string>
+    <string name="opt2">複製到第二個文字區塊</string>
+    <string name="r1">顯示文字區塊1:</string>
+    <string name="r2">顯示文字區塊2:</string>
+    <string name="sure">確定</string>
+</resources>

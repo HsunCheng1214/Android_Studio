@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Java App</string>
+    <string name="name">Input name: </string>
+    <string name="phone">Input phone: </string>
+    <string name="email">Input email: </string>
+    <string name="sure">Sure</string>
+    <string name="exit">Exit</string>
+    <string name="result">Display Result: </string>
+    <string name="err">Error !!</string>
+    <string name="succ">Insert Successful !!</string>
+    <string name="drop">Delete Database Table !!</string>
+    <string name="cre">create Table</string>
+    <string name="dr_succ">Delete Table Successful !!</string>
+    <string name="tot">Total</string>
+    <string name="data">records!! </string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Java App</string>
+    <string name="opt1">Copy to text1</string>
+    <string name="opt2">Copy to text2</string>
+    <string name="r1">Display Text1</string>
+    <string name="r2">Display Text2</string>
+    <string name="sure">Sure</string>
+</resources>

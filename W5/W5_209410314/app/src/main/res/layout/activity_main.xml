@@ -11,7 +11,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/id" />
-
     <EditText
         android:id="@+id/ed1"
         android:layout_width="wrap_content"
@@ -20,7 +19,6 @@
         android:layout_toRightOf="@+id/textView1"
         android:inputType="textPersonName"
         android:text=""/>
-
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
@@ -37,14 +35,12 @@
         android:layout_toRightOf="@+id/textView2"
         android:inputType="textPersonName"
         android:text=""/>
-
     <Button
         android:id="@+id/b1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/ed2"
         android:text="@string/send" />
-
     <TextView
         android:id="@+id/tv1"
         android:layout_width="wrap_content"

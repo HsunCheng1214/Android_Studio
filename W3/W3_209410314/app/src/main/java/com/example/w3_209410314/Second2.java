@@ -9,13 +9,13 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-
 public class Second2 extends AppCompatActivity implements View.OnClickListener{
     Button b2, b3;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_second2);
-        Log.d("test","Second2_onCreate"); setTitle(getString(R.string.act2_title));
+        Log.d("test","Second2_onCreate");
+        setTitle(getString(R.string.act2_title));
         b2=(Button) findViewById(R.id.b2);
         b3=(Button) findViewById(R.id.b3);
         b2.setOnClickListener(this);
@@ -52,6 +52,4 @@ public class Second2 extends AppCompatActivity implements View.OnClickListener{
     protected void onDestroy(){
         super.onDestroy(); Log.d("test","Second2_onDestroy");
     }
-
-
 }

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">資料庫</string>
+    <string name="name">輸入姓名: </string>
+    <string name="phone">輸入電話: </string>
+    <string name="email">輸入電郵: </string>
+    <string name="sure">確定</string>
+    <string name="exit">離開</string>
+    <string name="result">顯示結果: </string>
+    <string name="err">資料有誤!!</string>
+    <string name="succ">新增成功!!</string>
+    <string name="drop">刪除表格!!</string>
+    <string name="cre">建立表格</string>
+    <string name="dr_succ">刪除成功!!</string>
+    <string name="tot">總共有</string>
+    <string name="data">筆資料!! </string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Java App</string>
+    <string name="bmi">Compute BMI</string>
+    <string name="exp">BMI Explanation</string>
+    <string name="explain">BMI=Wight(kg)/(Height(m)*Height(m))\n
+        Too Light BMI &lt; 18.5\n
+        Normal 18.5&lt;= BMI &lt; 24\n
+        Over Weight 24&lt;= BMI &lt; 27\n</string>
+    <string name="high">Height(cm)</string>
+    <string name="wei">Weight(kg)</string>
+    <string name="com">Compute</string>
+    <string name="result">BMI=</string>
+    <string name="err">error</string>
+</resources>
